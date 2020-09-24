@@ -1,8 +1,8 @@
 # Descrição do Repositório
 
-Este repositório armazena os arquivos necessários para criação da imagem Docker e a execução da imagem em container do Serviço de interpolação de dados espaciais.
+Este repositório armazena os arquivos necessários para criação da imagem Docker e a execução da imagem em container do Serviço de Interpolação de Dados Espaciais.
 
-### O passo a passo aqui demostrado, foi executado no sistema opercional Linux Ubuntu 18.04 LTS
+**O passo a passo aqui demostrado, foi executado no sistema opercional Linux Ubuntu 18.04 LTS**
 
 # Pré-requsitos
 
