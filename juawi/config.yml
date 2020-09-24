@@ -1,0 +1,22 @@
+default:
+  name_value: "Value"
+  file_not_exist: "Arquivo nao existe ou caminho nao eh valido."
+  latitude: "LATITUDE"
+  longitude: "LONGITUDE"
+  idw: "IDW"
+  ok: "OK"
+  rf: "RF"
+  empty_option: ""
+  amount_lines: 0
+  modelMinimumSize: 10
+  maximum_size_interpolation_sample: 1000
+  minimum_size_interpolation_sample: 1
+  amount_tree: 500
+  amount_decimal_name_model: 6
+  folder_model: "data/"
+  type_file_model: "_mod.Rds"
+  nmax: 5
+  is_list: "list"
+  is_character: "character"
+  
+  
