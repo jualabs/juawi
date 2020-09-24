@@ -37,9 +37,9 @@ Este repositório armazena os arquivos necessários para criação da imagem Doc
 		juawi
     ```
 
-Observação: o mapeamento entre os volumes é necessário para que o container manter os modelos gerdados no formato .Rds salvos no computador hospedeiro.
+Observação: o mapeamento entre os volumes é necessário para que o container mantenha os modelos gerados no formato .Rds, salvos no computador hospedeiro.
 
-4) Teste do funcionamento do serviço juawi digite no browser o seguinte url **http://localhost:8001/test** .
+4) Teste do funcionamento do serviço juawi digitando no browser o seguinte url **http://localhost:8001/test** .
 
 5) Outros comandos necessários:
 
